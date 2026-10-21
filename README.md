@@ -14,19 +14,6 @@ Hands-on labs covering networking fundamentals, DNS, HTTP, TLS and reverse proxi
 - [Interview questions practised](#interview-questions-practised)
 - [Progress checklist](#progress-checklist)
 
-## Repository structure
-
-```
-devops-networking-labs/
-├── README.md
-├── week-2/
-│   ├── day1-notes.md          # subnetting answers, ip/ss output, tcpdump capture, break/fix write-ups
-│   └── day2-notes.md          # dig +trace, curl timings, TLS inspection, break/fix write-ups
-└── configs/
-    └── nginx-myapp.conf       # reverse proxy configuration
-```
-
----
 
 ## Day 1: TCP/IP, subnets, routing, TCP vs UDP, ports
 
